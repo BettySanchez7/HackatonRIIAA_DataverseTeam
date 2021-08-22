@@ -8,11 +8,11 @@ DATAVERSE TEAM
 
 **Integrantes**
 
-- Yurika
-- Micaela
-- Betty Sánchez
-- Iván
-- David
+- Yurika Macusaya Aguilar
+- Micaela Jhoselin Saenz Molina
+- María Beatriz Sánchez Díaz
+- Carlos Ivan Hernandez Hernandez
+- David Rafael Arancibia Escobar
 
 ## Descripión
 El uso de la IA en la actualidad abarca todas las áreas y una de ellas es el análisis de documentos.
