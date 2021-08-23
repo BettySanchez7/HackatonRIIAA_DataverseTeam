@@ -24,10 +24,17 @@ Generó toneladas de archivos institucionales de esta represión, el objetivo de
 1.  Análisis del problema
 2.  Recolección de Datos
 3.  Elección de herramientas/modelos para detección de los objetos.
-4.  
+4.  Implementación de modelos diferentes para cada caso.
+5. Exportación de resultados en csv
+6. Unión de csv y resultados.
 
-## Implementación
+## Desarrollo
 
-Cada 
+A continuación se presentan los notebooks, cada uno documentado con los pasos para su implementación 
 
-## Notas
+Implementación.
+* [Detección de rostros](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+* [Detección de firmas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+* [Detección de sellos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+* [Detección de textos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+
