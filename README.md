@@ -36,4 +36,4 @@ A continuación se presentan los notebooks, cada uno documentado con los pasos p
 * [Detección de firmas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
 * [Detección de sellos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
 * [Detección de textos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
-
+* [Detección de tablas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
