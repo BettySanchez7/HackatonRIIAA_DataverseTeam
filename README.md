@@ -32,8 +32,8 @@ Generó toneladas de archivos institucionales de esta represión, el objetivo de
 
 A continuación se presentan los notebooks, cada uno documentado con los pasos para su implementación 
 
-* [Detección de rostros](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
-* [Detección de firmas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+
+* [Detección de rostros](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Rostros/detección_de_rostros.ipynb)
+* [Detección de firmas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Firmas/Firmas_r1.ipynb)
 * [Detección de sellos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
-* [Detección de textos](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
-* [Detección de tablas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Sellos/Detecci%C3%B3nSellos_RIIAA.ipynb)
+* [Detección de tablas](https://github.com/BettySanchez7/HackatonRIIAA_DataverseTeam/blob/main/Notebooks/Deteccion_Tablas/TableDetection.ipynb)
